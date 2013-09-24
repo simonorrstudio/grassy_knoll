@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to my Parlor"
 date: 2013-09-23 19:10
 comments: true
-categories: 
+categories: [General]
 ---
 
 ##And so it begins.
