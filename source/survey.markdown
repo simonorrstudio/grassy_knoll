@@ -7,4 +7,6 @@ sharing: true
 footer: true
 ---
 
-{% google_form 1Rg53eiJDfaKlSEWvFEbDIDqmY1lmW_jSxFsBBxh6b14 Thanks a Million. Note that you must be logged in to your WU Google account to take this survey. %}
+Thanks a million! If a login form appears, please login with your WU credentials.
+
+{% google_form 1Rg53eiJDfaKlSEWvFEbDIDqmY1lmW_jSxFsBBxh6b14 %}
