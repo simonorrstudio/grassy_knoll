@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Announcements | Grassy Knoll]]></title>
+  <link href="http://simonorrstudio.github.io/grassy_knoll/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://simonorrstudio.github.io/grassy_knoll/"/>
+  <updated>2013-09-24T02:39:23-07:00</updated>
+  <id>http://simonorrstudio.github.io/grassy_knoll/</id>
+  <author>
+    <name><![CDATA[Simon Orr]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Emotions Available]]></title>
+    <link href="http://simonorrstudio.github.io/grassy_knoll/blog/2013/09/24/new-emotions-available/"/>
+    <updated>2013-09-24T02:37:00-07:00</updated>
+    <id>http://simonorrstudio.github.io/grassy_knoll/blog/2013/09/24/new-emotions-available</id>
+    <content type="html"><![CDATA[<h2>Oh, So</h2>
+
+<p>I realized that there were two important omissions in the emotions in the survey. They&rsquo;re added now: Aroused and Depressed. Because college students.</p>
+
+<p>If this is the first thing you&rsquo;re reading after coming to this website from an ad, maybe mosey on over to the About page. It&rsquo;ll make a helluva lot more sense that way.</p>
+
+<p>Share and enjoy.</p>
+]]></content>
+  </entry>
+  
+</feed>
