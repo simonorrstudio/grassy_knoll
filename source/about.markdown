@@ -19,6 +19,6 @@ There is a page on this website titled "Survey". You'll find a survey there (as 
 
 ##What You Can Get Outta It
 
-I realize that nobody's exactly going to volunteer to chart their emotions for a stranger. As such, five participants will be randomly selected to receive a "self-portrait". This is a portrait in that I attach you to a spectral analyzer (don't worry, it doesn't damage you) and use you as an antenna to view an environment of your choosing through the spectra that your body can absorb. Basically, it's a landscape or snapshot of any place you choose using your body as the camera lens. It looks rather like a bar-graph, but it's kinda nifty in and of itself.
+I realize that nobody's exactly going to volunteer to chart their emotions for a stranger. As such, five participants will be randomly selected to receive a "self-portrait". This is a portrait in that I attach you to a spectral analyzer (don't worry, it doesn't damage you) and use you as an antenna to view an environment of your choosing through the spectra that your body can absorb. Basically, it's a landscape or snapshot of any place you choose using your body as the camera lens. It looks rather like a bar-graph, but it's kinda nifty in and of itself. It's a "self" portrait in that you _yourself_ are the medium for the portraiture.
 
 ####If you have any questions, please email me at <a href="mailto:sorr@willamette.edu">sorr@willamette.edu</a> .
