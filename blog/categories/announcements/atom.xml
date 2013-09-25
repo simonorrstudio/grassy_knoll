@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Announcements | Grassy Knoll]]></title>
   <link href="http://simonorrstudio.github.io/grassy_knoll/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://simonorrstudio.github.io/grassy_knoll/"/>
-  <updated>2013-09-24T02:39:23-07:00</updated>
+  <updated>2013-09-24T17:25:53-07:00</updated>
   <id>http://simonorrstudio.github.io/grassy_knoll/</id>
   <author>
     <name><![CDATA[Simon Orr]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fear Itself]]></title>
+    <link href="http://simonorrstudio.github.io/grassy_knoll/blog/2013/09/24/fear-itself/"/>
+    <updated>2013-09-24T17:24:00-07:00</updated>
+    <id>http://simonorrstudio.github.io/grassy_knoll/blog/2013/09/24/fear-itself</id>
+    <content type="html"><![CDATA[<h2>I&rsquo;ve added fear</h2>
+
+<p>as an emotion on the survey. Don&rsquo;t know how I forgot about that one.</p>
+
+<p>If this is the first thing you&rsquo;re reading after coming to this website from an ad, maybe head over to the About page. It&rsquo;ll make a helluva lot more sense that way.</p>
+
+<p>Share and enjoy.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Emotions Available]]></title>
